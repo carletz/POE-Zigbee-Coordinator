@@ -15,8 +15,8 @@ This project is a custom-designed Zigbee Coordinator board integrating **ESP32**
 - LEDs for link/activity indication
 - Compact design ready for fabrication via JLCPCB
 
-![Render 1](Images/top.png)
-![Render 1](Images/bottom.png)
+![Render 1](Image/top.png)
+![Render 1](Image/bottom.png)
 
 ## Project Structure
 
