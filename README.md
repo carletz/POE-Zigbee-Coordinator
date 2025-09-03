@@ -54,4 +54,4 @@ The electrical schematic is divided into the following pages:
 
 ## License
 
-This project is open hardware, released under the MIT License. See `LICENSE` file for details.
+This project is open hardware, released under the MIT License.
