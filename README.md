@@ -17,6 +17,8 @@ This project is a custom-designed Zigbee Coordinator board integrating **ESP32**
 
 ![Render 1](Image/top.png)
 ![Render 1](Image/bottom.png)
+![Render 1](Image/final.jpg)
+
 
 ## Project Structure
 
@@ -31,6 +33,9 @@ The electrical schematic is divided into the following pages:
 - Compatible with **Zigbee2MQTT**, **Home Assistant**, **OpenHAB**, and other automation platforms
 - ESP32 flashable via USB or UART boot mode (IO0 + EN)
 - Zigbee module (CC2652P2) flashable via UART bridge with ESP32
+
+## Video of construction and first use
+[![Watch the video on YouTube](https://img.youtube.com/vi/AipW53Sq_ik/0.jpg)](https://youtu.be/AipW53Sq_ik)
 
 ## Flashing Instructions
 
